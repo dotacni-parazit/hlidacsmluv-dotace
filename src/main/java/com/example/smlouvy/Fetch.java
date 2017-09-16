@@ -22,7 +22,7 @@ import lombok.extern.slf4j.Slf4j;
 @Slf4j
 public class Fetch {
 
-    public static final int MONTHS_DIFF = 2;
+    public static final int DAY_DIFF = 2 * 30;
 
     @Autowired
     @Qualifier("search")
@@ -54,7 +54,7 @@ public class Fetch {
 
                     if (requestSmlouvy.getPodpisDatum() != null) {
                         s.setRank(s.getRank() + rankDate(s, requestSmlouvy));
-                        s.setMonthDiff(monthDiff(s, requestSmlouvy));
+                        s.setMonthDiff(dayDiff(s, requestSmlouvy));
                     }
                     return s;
                 })
@@ -106,7 +106,7 @@ public class Fetch {
         List<Smlouva> found = pager(String.format("ico:%s", r.getIco()));
         if (r.getPodpisDatum() != null) {
             return found.stream()
-                    .filter(s -> monthDiff(s, r) < MONTHS_DIFF)
+                    .filter(s -> dayDiff(s, r) < DAY_DIFF)
                     .collect(Collectors.toList());
         }
         return found;
@@ -166,18 +166,18 @@ public class Fetch {
         return data;
     }
 
-    private int monthDiff(Smlouva s, RequestSmlouvy r) {
+    private int dayDiff(Smlouva s, RequestSmlouvy r) {
         return (int) Math.abs(
-                ChronoUnit.MONTHS.between(r.getPodpisDatum(), s.datumUzavreni)
+                ChronoUnit.DAYS.between(r.getPodpisDatum(), s.datumUzavreni)
         );
     }
 
     public int rankDate(Smlouva s, RequestSmlouvy r) {
 
-        double successPercent = 1 - (monthDiff(s, r) / (double) MONTHS_DIFF);
+        double successPercent = 1 - (dayDiff(s, r) / (double) DAY_DIFF);
         int result = (int) Math.floor(successPercent * 40);
 
-        log.debug("Ranking {} with month diff {} as {}", s.getId(), monthDiff(s, r), result);
+        log.debug("Ranking {} with day diff {} as {}", s.getId(), dayDiff(s, r), result);
         return result;
     }
 }
