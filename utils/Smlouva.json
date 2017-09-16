@@ -1,0 +1,1128 @@
+{
+  "identifikator": {
+    "idSmlouvy": "2474014",
+    "idVerze": "2664454"
+  },
+  "schvalil": null,
+  "hodnotaBezDph": null,
+  "hodnotaVcetneDph": null,
+  "ciziMena": null,
+  "platnyZaznam": true,
+  "PravniRamec": 2,
+  "Prilohy": [
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Dodatek č 2 sml 142906067.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "5b427c50f4e314f3cf4d0acbffb70989af8da82af84961ef3f192b8abfd65f70"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:50.6228141+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Dodatek č 1 sml 142906067.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "29fe01886a307034e7aea5bb669567808d987198b2773bf30a8e3eb48581847c"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:50.6853147+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Dodatek č 3 sml 142906067.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "1c4ae10bbc877c0a83ed12df2aea8e10eb41f06f10d02a0030c7660edaa87c92"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:51.5603251+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Dodatek č 4 sml 142906067.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "f44460481ec65191e5a50695959793453f56545fa75b4866db8456f10b948fc3"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:51.7322026+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Dodatek č 5 sml 142906067.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "d0ea801e6efb166517c7a2a29bebdba04f4c9b43666ca6c0de7ac303fb69ec07"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:51.7634529+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Dodatek č 6 sml 142906067.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "aa2dc6b348901e29919f75bee050e6d1dded2cc8f870c9b64c9009059928f2a7"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:51.7947035+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Příloha dodatku č 1 sml 142906067.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "0e763c5135b3266985ca0bd2bee0fda8e91265c285219c1fc29ca664bf9163b5"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:51.8259539+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Příloha č 1 dodatku č 2 sml 142906067.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "c1adce16b9fe76de7a3343efd6a71839ea1c5c11dc111d732ad662461c5cefda"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:51.8415785+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Příloha dodatku č 3 sml 142906067.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "e4c28520391b00a2299f1899a7bac7640d41c28c675fc47df574371fcb0be291"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:51.9040788+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Sml č 142906067 Aero Vodochody.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "f6017ab22d0f98388a57ae42b1ec633292def53641cda82849e6a816cac5b969"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:53.0759686+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Sml č 142906067 příloha č. 1.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "fc101f6cafc3f18b684d034a3ec0e8e29488417032fb08e1ddd856b3c88af970"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:53.0915939+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Příloha č. 1 k dodatku č. 4 - protokol.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "8effd366e0b9a5b192676cbf3c6a044993f5200f6c22d5878d8f756c0ac6988d"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:53.1228449+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Příloha č. 2 k dodatku č. 4 - protokol.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "11622f23d54fa4fe8193140048f1014a2d26d94fb711a9d03f974ce43a165110"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:53.2478465+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Příloha č. 1 k dodatku č. 5 - protokol.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "19b5f98e1394e7486291fd9ff9ad0b7be5aec3525261799a0c55d653eeb327ce"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:53.2790971+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Příloha č. 2 k dodatku č. 5 - protokol.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "4650533f960dd08a4e430cf6a72715bf42dd7b382dacd0b4b1bbafe915898d81"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:53.2947224+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Příloha č. 3 k dodatku č. 5 - protokol.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "d885327122c8d3ddf9728c8a541e2bdbae4c65fe88b90862e587d00d15ee7a81"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:53.3259724+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Příloha č. 4 k dodatku č. 5 - protokol.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "4a5c8298681b457d93ca9c0b621ba6f5d4af16099f8cdf24500b7d898a63d94e"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:53.3415974+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Dodatek č 2 sml 142906067.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "5b427c50f4e314f3cf4d0acbffb70989af8da82af84961ef3f192b8abfd65f70"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:53.3884737+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Dodatek č 1 sml 142906067.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "29fe01886a307034e7aea5bb669567808d987198b2773bf30a8e3eb48581847c"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:53.9041056+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Dodatek č 3 sml 142906067.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "1c4ae10bbc877c0a83ed12df2aea8e10eb41f06f10d02a0030c7660edaa87c92"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:53.9509803+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Dodatek č 4 sml 142906067.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "f44460481ec65191e5a50695959793453f56545fa75b4866db8456f10b948fc3"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:53.9822309+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Dodatek č 5 sml 142906067.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "d0ea801e6efb166517c7a2a29bebdba04f4c9b43666ca6c0de7ac303fb69ec07"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:54.0291065+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Dodatek č 6 sml 142906067.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "aa2dc6b348901e29919f75bee050e6d1dded2cc8f870c9b64c9009059928f2a7"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:54.0603568+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Příloha dodatku č 1 sml 142906067.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "0e763c5135b3266985ca0bd2bee0fda8e91265c285219c1fc29ca664bf9163b5"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:54.0759815+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Příloha č 1 dodatku č 2 sml 142906067.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "c1adce16b9fe76de7a3343efd6a71839ea1c5c11dc111d732ad662461c5cefda"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:54.1072321+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Příloha dodatku č 3 sml 142906067.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "e4c28520391b00a2299f1899a7bac7640d41c28c675fc47df574371fcb0be291"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:54.1228575+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Sml č 142906067 Aero Vodochody.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "f6017ab22d0f98388a57ae42b1ec633292def53641cda82849e6a816cac5b969"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:54.9678187+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Sml č 142906067 příloha č. 1.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "fc101f6cafc3f18b684d034a3ec0e8e29488417032fb08e1ddd856b3c88af970"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:54.999069+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Příloha č. 1 k dodatku č. 4 - protokol.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "8effd366e0b9a5b192676cbf3c6a044993f5200f6c22d5878d8f756c0ac6988d"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:55.03032+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Příloha č. 2 k dodatku č. 4 - protokol.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "11622f23d54fa4fe8193140048f1014a2d26d94fb711a9d03f974ce43a165110"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:55.0459446+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Příloha č. 1 k dodatku č. 5 - protokol.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "19b5f98e1394e7486291fd9ff9ad0b7be5aec3525261799a0c55d653eeb327ce"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:55.0771953+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Příloha č. 2 k dodatku č. 5 - protokol.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "4650533f960dd08a4e430cf6a72715bf42dd7b382dacd0b4b1bbafe915898d81"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:55.1084456+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Příloha č. 3 k dodatku č. 5 - protokol.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "d885327122c8d3ddf9728c8a541e2bdbae4c65fe88b90862e587d00d15ee7a81"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:55.1240706+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Příloha č. 4 k dodatku č. 5 - protokol.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "4a5c8298681b457d93ca9c0b621ba6f5d4af16099f8cdf24500b7d898a63d94e"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:55.1553212+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Dodatek č 2 sml 142906067.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "5b427c50f4e314f3cf4d0acbffb70989af8da82af84961ef3f192b8abfd65f70"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:55.2021968+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Dodatek č 1 sml 142906067.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "29fe01886a307034e7aea5bb669567808d987198b2773bf30a8e3eb48581847c"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:56.0479311+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Dodatek č 3 sml 142906067.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "1c4ae10bbc877c0a83ed12df2aea8e10eb41f06f10d02a0030c7660edaa87c92"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:56.0948074+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Dodatek č 4 sml 142906067.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "f44460481ec65191e5a50695959793453f56545fa75b4866db8456f10b948fc3"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:56.1416824+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Dodatek č 5 sml 142906067.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "d0ea801e6efb166517c7a2a29bebdba04f4c9b43666ca6c0de7ac303fb69ec07"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:56.172933+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Dodatek č 6 sml 142906067.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "aa2dc6b348901e29919f75bee050e6d1dded2cc8f870c9b64c9009059928f2a7"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:56.204184+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Příloha dodatku č 1 sml 142906067.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "0e763c5135b3266985ca0bd2bee0fda8e91265c285219c1fc29ca664bf9163b5"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:56.219808+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Příloha č 1 dodatku č 2 sml 142906067.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "c1adce16b9fe76de7a3343efd6a71839ea1c5c11dc111d732ad662461c5cefda"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:56.2510596+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Příloha dodatku č 3 sml 142906067.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "e4c28520391b00a2299f1899a7bac7640d41c28c675fc47df574371fcb0be291"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:56.2666843+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Sml č 142906067 Aero Vodochody.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "f6017ab22d0f98388a57ae42b1ec633292def53641cda82849e6a816cac5b969"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:57.2823219+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Sml č 142906067 příloha č. 1.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "fc101f6cafc3f18b684d034a3ec0e8e29488417032fb08e1ddd856b3c88af970"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:57.3135735+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Příloha č. 1 k dodatku č. 4 - protokol.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "8effd366e0b9a5b192676cbf3c6a044993f5200f6c22d5878d8f756c0ac6988d"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:57.3291975+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Příloha č. 2 k dodatku č. 4 - protokol.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "11622f23d54fa4fe8193140048f1014a2d26d94fb711a9d03f974ce43a165110"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:57.3604482+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Příloha č. 1 k dodatku č. 5 - protokol.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "19b5f98e1394e7486291fd9ff9ad0b7be5aec3525261799a0c55d653eeb327ce"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:57.3760728+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Příloha č. 2 k dodatku č. 5 - protokol.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "4650533f960dd08a4e430cf6a72715bf42dd7b382dacd0b4b1bbafe915898d81"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:57.501075+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Příloha č. 3 k dodatku č. 5 - protokol.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "d885327122c8d3ddf9728c8a541e2bdbae4c65fe88b90862e587d00d15ee7a81"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:57.5323247+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Příloha č. 4 k dodatku č. 5 - protokol.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "4a5c8298681b457d93ca9c0b621ba6f5d4af16099f8cdf24500b7d898a63d94e"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:57.5479507+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Dodatek č 7 sml 142906067 pro Registr Smluv.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "5c8a7595f6d79018eab7a49d865d13a6bb57695aea6b1797f412ca10002ffc0e"
+      },
+      "odkaz": "",
+      "DatlClassification": null,
+      "PlainTextContent": "-- anonymizovano serverem HlidacSmluv.cz --",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2017-02-23T09:46:57.8604541+01:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 43,
+      "WordCount": 5,
+      "Pages": 0,
+      "EnoughExtractedText": false
+    }
+  ],
+  "LastUpdate": "2017-08-01T17:08:38.6993958+02:00",
+  "CalculatedPriceWithVATinCZK": 0,
+  "CalcutatedPriceQuality": 0,
+  "Issues": [
+    {
+      "IssueTypeId": 100,
+      "Created": "2017-08-01T17:08:38.0825407+02:00",
+      "Title": "Nulová hodnota smlouvy",
+      "TextDescription": "Smlouva nemá v metadatech uvedenu cenu. Utajení hodnoty smlouvy je možné pouze v odůvodněných případech, což při této kontrole nehodnotíme.",
+      "Public": true,
+      "Permanent": false,
+      "Importance": 5,
+      "AffectedParams": null,
+      "AnalyzerType": "HlidacSmluv.Plugin.IssueAnalyzers.Price"
+    }
+  ],
+  "Enhancements": [
+    {
+      "Created": "2017-07-24T20:06:34.7411194+02:00",
+      "Title": "Doplněna datová schránka smluvní strany",
+      "Description": "",
+      "Changed": {
+        "ParameterName": "item.Prijemce[0].datovaSchranka",
+        "PreviousValue": "",
+        "NewValue": "43s73eh"
+      },
+      "Public": true,
+      "EnhancerType": "HlidacSmluv.Plugin.Enhancers.AddMissingData"
+    },
+    {
+      "Created": "2017-07-24T20:06:39.2411599+02:00",
+      "Title": "Text přílohy extrahován přímo z dokumentu",
+      "Description": "",
+      "Changed": {
+        "ParameterName": "item.Prilohy[0].PlainTextContent",
+        "PreviousValue": "",
+        "NewValue": ""
+      },
+      "Public": true,
+      "EnhancerType": "HlidacSmluv.Plugin.Enhancers.TextMiner"
+    }
+  ],
+  "ConfidenceValue": 5,
+  "Id": "2664454",
+  "odkaz": "https://smlouvy.gov.cz/smlouva/2664454",
+  "casZverejneni": "2017-07-24T19:56:11+02:00",
+  "VkladatelDoRejstriku": {
+    "datovaSchranka": "wmjmahj",
+    "nazev": "Zdravotnická záchranná služba Středočeského kraje, příspěvková organizace",
+    "ico": "75030926",
+    "adresa": "Vančurova 1544, 27201 Kladno, CZ",
+    "utvar": null
+  },
+  "Platce": {
+    "datovaSchranka": "wmjmahj",
+    "nazev": "Zdravotnická záchranná služba Středočeského kraje, příspěvková organizace",
+    "ico": "75030926",
+    "adresa": "Vančurova 1544, 27201 Kladno, CZ",
+    "utvar": null
+  },
+  "Prijemce": [
+    {
+      "datovaSchranka": "43s73eh",
+      "nazev": "AERO Vodochody AEROSPACE a.s.",
+      "ico": "24194204",
+      "adresa": null,
+      "utvar": null
+    }
+  ],
+  "predmet": "výpůjčka - pronájem dopravního prostředku",
+  "datumUzavreni": "2017-07-24T00:00:00",
+  "cisloSmlouvy": "148/75030926/17",
+  "navazanyZaznam": null,
+  "souvisejiciSmlouvy": null
+}
