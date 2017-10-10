@@ -86,7 +86,7 @@ public class Fetch {
             log.info("Response status {}, headers: {}", r.getStatus(), r.getHeaders());
             if (!String.valueOf(r.getHeaders().get("Content-Type")).contains("json")) {
                 log.error("response isn't applicatoin/json");
-                log.error(r.readEntity(String.class));
+                log.debug(r.readEntity(String.class));
                 throw new IllegalArgumentException("Response wasn't application/json");
             }
             Wrapper data = r.readEntity(Wrapper.class);
