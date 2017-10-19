@@ -24,13 +24,18 @@ public class Fetch {
 
     public static final int DAY_DIFF = 2 * 30;
 
-    @Autowired
     @Qualifier("search")
-    private WebTarget target;
+    private final WebTarget target;
+
+    @Qualifier("detail")
+    private final WebTarget detail;
 
     @Autowired
-    @Qualifier("detail")
-    private WebTarget detail;
+    public Fetch(@Qualifier("search") WebTarget target,
+                 @Qualifier("detail") WebTarget detail) {
+        this.target = target;
+        this.detail = detail;
+    }
 
     public List<Smlouva> fetchDataByQuery(RequestSmlouvy requestSmlouvy) {
 
