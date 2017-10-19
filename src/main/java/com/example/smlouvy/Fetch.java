@@ -84,10 +84,12 @@ public class Fetch {
                     .get();
 
             log.info("Response status {}, headers: {}", r.getStatus(), r.getHeaders());
-            if (!String.valueOf(r.getHeaders().get("Content-Type")).contains("json")) {
-                log.error("response isn't applicatoin/json");
-                log.error(r.readEntity(String.class));
-                throw new IllegalArgumentException("Response wasn't application/json");
+            final String contentType = String.valueOf(r.getHeaders().get("Content-Type"));
+            if (!contentType.contains("json")) {
+                log.error("Response for query '{}', page {}, is content type {}. Status code: {}, Headers '{}'.",
+                        query, page, contentType, r.getStatus(), r.getHeaders());
+                log.debug(r.readEntity(String.class));
+                throw new IllegalArgumentException("Hlidac smluv reponded with: " + contentType);
             }
             Wrapper data = r.readEntity(Wrapper.class);
             items.addAll(data.getItems());
