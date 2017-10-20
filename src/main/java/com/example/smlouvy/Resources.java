@@ -21,20 +21,13 @@ public class Resources {
         this.hlidacSmluvHost = hlidacSmluvHost;
     }
 
-    @Bean(name = "search")
-    public WebTarget hlidacSearch() {
+    /**
+     * Create http client with with auth token.
+     */
+    @Bean
+    public WebTarget apiClient() {
         return ClientBuilder.newClient()
                 .target(hlidacSmluvHost)
-                .register(auth)
-                .path("api/v1/search");
-    }
-
-
-    @Bean(name = "detail")
-    public WebTarget hlidacDetail() {
-        return ClientBuilder.newClient()
-                .target(hlidacSmluvHost)
-                .register(auth)
-                .path("api/v1/detail");
+                .register(auth);
     }
 }

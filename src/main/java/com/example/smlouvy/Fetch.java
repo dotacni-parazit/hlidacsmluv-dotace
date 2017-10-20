@@ -24,17 +24,13 @@ public class Fetch {
 
     public static final int DAY_DIFF = 2 * 30;
 
-    @Qualifier("search")
-    private final WebTarget target;
-
-    @Qualifier("detail")
-    private final WebTarget detail;
+    private final WebTarget searchPath;
+    private final WebTarget detailPath;
 
     @Autowired
-    public Fetch(@Qualifier("search") WebTarget target,
-                 @Qualifier("detail") WebTarget detail) {
-        this.target = target;
-        this.detail = detail;
+    public Fetch(WebTarget apiClient) {
+        this.searchPath = apiClient.path("api/v1/search");
+        this.detailPath = apiClient.path("api/v1/detail");
     }
 
     public List<Smlouva> fetchDataByQuery(RequestSmlouvy requestSmlouvy) {
@@ -77,7 +73,7 @@ public class Fetch {
      * @return found data
      */
     private List<Smlouva> pager(String query) {
-        WebTarget target = this.target.queryParam("query", query);
+        WebTarget target = this.searchPath.queryParam("query", query);
         List<Smlouva> items = new LinkedList<>();
         int page = 1;
         boolean needNext = true;
@@ -165,7 +161,7 @@ public class Fetch {
 
     public Smlouva enrichPrilohy(Smlouva s) {
         log.info("fetching detail by {}", s.getId());
-        Smlouva data = detail.path(s.getId())
+        Smlouva data = detailPath.path(s.getId())
                 .request(MediaType.APPLICATION_JSON_TYPE)
                 .get(Smlouva.class);
         data.setRank(s.getRank());

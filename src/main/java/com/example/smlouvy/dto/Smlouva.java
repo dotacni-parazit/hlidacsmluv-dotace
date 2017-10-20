@@ -1,6 +1,7 @@
 
 package com.example.smlouvy.dto;
 
+import java.math.BigDecimal;
 import java.time.LocalDateTime;
 import java.util.HashMap;
 import java.util.List;
@@ -59,9 +60,9 @@ public class Smlouva {
     @JsonProperty("schvalil")
     private Object schvalil;
     @JsonProperty("hodnotaBezDph")
-    private Object hodnotaBezDph;
+    private BigDecimal hodnotaBezDph;
     @JsonProperty("hodnotaVcetneDph")
-    private Object hodnotaVcetneDph;
+    private BigDecimal hodnotaVcetneDph;
     @JsonProperty("ciziMena")
     private Object ciziMena;
     @JsonProperty("platnyZaznam")
@@ -73,7 +74,7 @@ public class Smlouva {
     @JsonProperty("LastUpdate")
     private String lastUpdate;
     @JsonProperty("CalculatedPriceWithVATinCZK")
-    private Integer calculatedPriceWithVATinCZK;
+    private BigDecimal calculatedPriceWithVATinCZK;
     @JsonProperty("CalcutatedPriceQuality")
     private Integer calcutatedPriceQuality;
     @JsonProperty("Issues")
@@ -130,22 +131,22 @@ public class Smlouva {
     }
 
     @JsonProperty("hodnotaBezDph")
-    public Object getHodnotaBezDph() {
+    public BigDecimal getHodnotaBezDph() {
         return hodnotaBezDph;
     }
 
     @JsonProperty("hodnotaBezDph")
-    public void setHodnotaBezDph(Object hodnotaBezDph) {
+    public void setHodnotaBezDph(BigDecimal hodnotaBezDph) {
         this.hodnotaBezDph = hodnotaBezDph;
     }
 
     @JsonProperty("hodnotaVcetneDph")
-    public Object getHodnotaVcetneDph() {
+    public BigDecimal getHodnotaVcetneDph() {
         return hodnotaVcetneDph;
     }
 
     @JsonProperty("hodnotaVcetneDph")
-    public void setHodnotaVcetneDph(Object hodnotaVcetneDph) {
+    public void setHodnotaVcetneDph(BigDecimal hodnotaVcetneDph) {
         this.hodnotaVcetneDph = hodnotaVcetneDph;
     }
 
@@ -200,12 +201,12 @@ public class Smlouva {
     }
 
     @JsonProperty("CalculatedPriceWithVATinCZK")
-    public Integer getCalculatedPriceWithVATinCZK() {
+    public BigDecimal getCalculatedPriceWithVATinCZK() {
         return calculatedPriceWithVATinCZK;
     }
 
     @JsonProperty("CalculatedPriceWithVATinCZK")
-    public void setCalculatedPriceWithVATinCZK(Integer calculatedPriceWithVATinCZK) {
+    public void setCalculatedPriceWithVATinCZK(BigDecimal calculatedPriceWithVATinCZK) {
         this.calculatedPriceWithVATinCZK = calculatedPriceWithVATinCZK;
     }
 
