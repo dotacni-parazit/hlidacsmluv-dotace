@@ -1,0 +1,68 @@
+{
+  "total": 1,
+  "items": [
+    {
+      "identifikator": {
+        "idSmlouvy": "580677",
+        "idVerze": "617873"
+      },
+      "schvalil": null,
+      "hodnotaBezDph": 247250,
+      "hodnotaVcetneDph": null,
+      "ciziMena": null,
+      "platnyZaznam": true,
+      "PravniRamec": 1,
+      "Prilohy": null,
+      "LastUpdate": "2017-07-05T16:41:34.3392864+02:00",
+      "CalculatedPriceWithVATinCZK": 299172.5,
+      "CalcutatedPriceQuality": 2,
+      "Issues": [],
+      "Enhancements": [
+        {
+          "Created": "2016-11-22T02:49:38.2983475+01:00",
+          "Title": "Text přílohy extrahován přímé z dokumentu",
+          "Description": "",
+          "Changed": {
+            "ParameterName": "item.Prilohy[0].PlainTextContent",
+            "PreviousValue": "",
+            "NewValue": ""
+          },
+          "Public": true,
+          "EnhancerType": "HlidacSmluv.Plugin.Enhancers.TextMiner"
+        }
+      ],
+      "ConfidenceValue": 0,
+      "Id": "617873",
+      "odkaz": "https://smlouvy.gov.cz/smlouva/617873",
+      "casZverejneni": "2016-11-21T10:51:07+01:00",
+      "VkladatelDoRejstriku": {
+        "datovaSchranka": "y2cj9e8",
+        "nazev": "Veterinární a farmaceutická univerzita Brno",
+        "ico": "62157124",
+        "adresa": " ,  Palackého 1946/1, 61242 Brno, ",
+        "utvar": null
+      },
+      "Platce": {
+        "datovaSchranka": "xftccth",
+        "nazev": "AGROFERT HOLDING, a.s.",
+        "ico": "26185610",
+        "adresa": "Pyšelská 2327/2,  PRAHA 4-CHODOV",
+        "utvar": null
+      },
+      "Prijemce": [
+        {
+          "datovaSchranka": "y2cj9e8",
+          "nazev": "Veterinární a farmaceutická univerzita Brno",
+          "ico": "62157124",
+          "adresa": " ,  Palackého 1946/1, 61242 Brno, ",
+          "utvar": null
+        }
+      ],
+      "predmet": "Kupní smlouva-sójový šrot",
+      "datumUzavreni": "2016-11-21T00:00:00",
+      "cisloSmlouvy": "9119/00033",
+      "navazanyZaznam": null,
+      "souvisejiciSmlouvy": null
+    }
+  ]
+}
