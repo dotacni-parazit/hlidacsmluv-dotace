@@ -39,7 +39,7 @@ cd hlidacsmluv-dotace
 gradle bootJar
 
 # spustit aplikaci
-java -jar target *.jar
+java -jar build/lib/hlidacsmluv-dotace-0.0.1-SNAPSHOT.jar
 
 # ukončit aplikaci pomocí CTRL+C
 ```
