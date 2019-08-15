@@ -22,7 +22,6 @@ import java.util.List;
 
 import static org.junit.Assert.assertThat;
 
-
 @Slf4j
 public class FetchTest {
 
