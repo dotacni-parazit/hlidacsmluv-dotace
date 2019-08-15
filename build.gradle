@@ -52,7 +52,7 @@ dependencies {
 }
 
 group = 'com.github.czgov.smlouvy'
-version = '0.0.1-SNAPSHOT'
+version = '0.0.2-SNAPSHOT'
 description = 'hlidacsmluv-dotace'
 sourceCompatibility = '1.8'
 

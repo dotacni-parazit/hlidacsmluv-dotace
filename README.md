@@ -36,7 +36,7 @@ git clone https://github.com/czgov/hlidacsmluv-dotace.git
 cd hlidacsmluv-dotace
 
 # sestavit jar s aplikací
-mvn clean package
+gradle bootJar
 
 # spustit aplikaci
 java -jar target *.jar
